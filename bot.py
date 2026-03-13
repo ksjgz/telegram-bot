@@ -18,7 +18,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = os.getenv("8683892648:AAE6Yys3bHvtnDlLWn_voUP7ygJGV7PIFd8")
+TOKEN ="8683892648:AAE6Yys3bHvtnDlLWn_voUP7ygJGV7PIFd8"
 ADMIN_ID = 6317422525
 SUPPORT_USERNAME = "iraq_inhest_bot"
 DATA_FILE = "users.json"
@@ -1301,3 +1301,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
